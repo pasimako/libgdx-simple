@@ -1,4 +1,5 @@
 # libgdx-simple
-Tutorial - Simple libGDX game
 
-Repo for my tutorial at https://ubuverse.com/beginning-android-game-development-with-libgdx/
+__Tutorial - Simple libGDX game__
+
+This repository contains the code built step by step in my tutorial at [ubuverse.com/beginning-android-game-development-with-libgdx](https://ubuverse.com/beginning-android-game-development-with-libgdx/).
